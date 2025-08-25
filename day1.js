@@ -8,4 +8,6 @@ console.log(`My name is ${Personname}, I work as an ${Designation},my company na
 console.log("Bismillah My FirstPogram");
 //updated salary
 const salary1 = 250010
+const salary2 = 300000
 console.log(`updated salary ${salary1}`);
+console.log(`updated salary ${salary2}`);
